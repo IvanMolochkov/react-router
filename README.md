@@ -1,1 +1,1 @@
-![](./public/Be.gif)
+<img src="./public/Be.gif"></img>
